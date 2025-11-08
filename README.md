@@ -1,2 +1,1 @@
-# redux-toolkit-async
-Created with CodeSandbox
+# reduxtoolkit with Async
